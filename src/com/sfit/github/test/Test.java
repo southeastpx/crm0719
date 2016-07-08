@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("github response to local!!");
 		System.out.println("github response to local 02!!");
 		System.out.println(Integer.MAX_VALUE);
+		System.out.println("threadid"+Thread.getCurrent().getName());
 	}
 }
