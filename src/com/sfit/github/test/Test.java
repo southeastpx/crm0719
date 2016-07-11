@@ -10,5 +10,6 @@ public class Test {
 		System.out.println(Integer.MAX_VALUE);
 		System.out.println("threadName:"+Thread.currentThread().getName());
 		System.out.println("20160711");
+		System.out.println("github server response 20160711");
 	}
 }
