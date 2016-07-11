@@ -12,5 +12,6 @@ public class Test {
 		System.out.println("20160711");
 		System.out.println("github server response 20160711");
 		System.out.println("conflict local 20160711");
+		System.out.println("conflict githubserver 20160711");
 	}
 }
